@@ -18,7 +18,7 @@ def game(Mylist):
     print(" ", list_of_Game[3], end=" | ")
     print(list_of_Game[4], end=" | ")
     print(list_of_Game[5])
-    print("=============")
+    print("============= ")
     print(" ", list_of_Game[6], end=" | ")
     print(list_of_Game[7], end=" | ")
     print(list_of_Game[8])
